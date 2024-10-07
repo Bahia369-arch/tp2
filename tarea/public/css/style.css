@@ -1,0 +1,18 @@
+/* Selector global para cambiar la fuente de los títulos */
+h1, h2 {
+    font-family: Arial, sans-serif; 
+}
+
+/* Cambiar el color de los títulos */
+h1 {
+    color: green; /* Verde */ 
+}
+
+h2 {
+    color: orange; /* Naranja */
+}
+
+/* Cambiar el color de la descripción de las recetas */
+p {
+    color:  gray; /* Gris oscuro */
+}
